@@ -5,12 +5,7 @@ game.StarterGui:SetCore("SendNotification",{
     Duration = "20";
 })
 
--- Bob
-local Object = game:GetObjects("rbxassetid://136679946396026")[1]
+-- Load Models
+local Object = game:GetObjects("rbxassetid://76069879117679")[1]
 Object.Parent = game.Workspace
 Object:PivotTo(228.894, -7.975, -59.546)
-
--- ROOMS NO RICK ROLL 100%
-local Room = game:GetObjects("rbxassetid://125326107795579")[1]
-Room.Parent = game.Workspace
-Room:PivotTo(294.092, -7.682, -98.567)
