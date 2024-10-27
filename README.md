@@ -11,9 +11,9 @@ Including:
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JCdevreal/TheMinesPlus/refs/heads/main/Loader.lua"))()
 ```
-Supported Execs
-All Mobile Executors
-Nihon
-Wave
-Synapse Z
-And Any Full Luau Executor
+- Supported Execs
+- All Mobile Executors
+- Nihon
+- Wave
+- Synapse Z
+- And Any Full Luau Executor
