@@ -13,4 +13,4 @@ Object:PivotTo(228.894, -7.975, -59.546)
 -- ROOMS NO RICK ROLL 100%
 local Room = game:GetObjects("rbxassetid://125326107795579")[1]
 Room.Parent = game.Workspace
-Object:PivotTo(294.092, -7.682, -98.567)
+Room:PivotTo(294.092, -7.682, -98.567)
